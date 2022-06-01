@@ -1,4 +1,4 @@
-package praticaGit;
+package praticaRamide;
 
 public class HelloWorld {
 
